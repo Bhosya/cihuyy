@@ -24,7 +24,8 @@ const Header = () => {
       )}
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
-        <div className="flex items-center">
+        <div className="flex items-center gap-2">
+          <img src="/icon.png" alt="Cihuyy Logo" className="w-10 h-10" />
           <h1 className="text-3xl font-bold font-baloo text-cihuyy-yellow">
             CIHUYY!
           </h1>
